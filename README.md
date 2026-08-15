@@ -8,7 +8,7 @@ A ready-made configuration that can be easily integrated with ESPHome (2026.7.4)
 
 ## ⭐ Features
 
-<img src="docs/images/features.png"/></br>
+<img src="waveshare-esp32-s3-rgb-led-matrix/docs/images/features.png"/></br>
 
 Matrix automatic rotation: Checks if the matrix is ​​upside down and adjusts the scrolling text accordingly (including the matrix effect).  
 Matrix Color: Change the color of scrolling text or other color changes in the effects.</br>
@@ -27,7 +27,7 @@ I assume that ESPHome (ESPHome Builder) is familiar and, of course, already inst
 
 1. copy the yaml file and the folder to your esphome folder:
 
-   <img src="docs/images/folder.png"/>
+   <img src="waveshare-esp32-s3-rgb-led-matrix/docs/images/folder.png"/>
 
 2. change inside \*.yaml file the mentioned blocks to your needs... or what is provided to you after initial
 
